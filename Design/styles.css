@@ -309,6 +309,47 @@ html {
         padding: 20rem 0%;
     }
 }
+
+@media only screen and (min-width:321px) and (max-width:405px){
+    html{
+        font-size: 4%;
+    }
+    div.about-whole-content{
+        padding: 0 0%;
+    }
+    div.heading{
+        padding: 0;
+    }
+    div.office-whole-content {
+        padding: 60rem 0%;
+    }
+    div.office-places {
+        /* height: 350rem; */
+        width: 275rem;
+    }
+    div.product-container {
+        width: 272rem;
+        height: 110rem;
+    }
+    div.journey-container {
+        width: 250rem;
+        height: 275rem;
+    }
+    section.career {
+        padding: 75rem 0%;
+    }
+    div.carousel-wrap {
+        margin: 0rem auto;
+        width: 100%;
+    }
+    div.career-container {
+        width: 250rem;
+        height: 250rem;
+    }  
+    h5.product-h5{
+        font-size: 18rem;
+    } 
+}
 h1,
 h2,
 h3,
@@ -1120,4 +1161,4 @@ hr {
     width: 350rem;
     margin: 0;
     padding: 0;
-}
+
