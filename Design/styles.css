@@ -309,6 +309,7 @@ html {
         padding: 20rem 0%;
     }
 }
+
 @media only screen and (min-width:321px) and (max-width:405px){
     html{
         font-size: 4%;
@@ -1160,4 +1161,4 @@ hr {
     width: 350rem;
     margin: 0;
     padding: 0;
-}
+
